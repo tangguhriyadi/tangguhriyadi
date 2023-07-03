@@ -17,10 +17,11 @@
         <img src="https://img.shields.io/badge/WhatsApp-blue?style=flat-square&logo=whatsapp&logoColor=white" alt="e-mail">
     </a>
     <a href="https://t.me/Tangguhriyadi97">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" >
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="telegram">
     </a>
+    
     <a href="https://tangguhriyadi.showwcase.com">
-        <img src="	https://img.shields.io/badge/website-blue?style=flat-square&logo=About.me&logoColor=white" >
+        <img src="https://img.shields.io/badge/website-blue?style=flat-square&logo=About.me&logoColor=white" alt="web">
     </a>
     
 </p>
