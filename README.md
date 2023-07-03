@@ -34,8 +34,11 @@
 [![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23DD0031)](https://github.com/tangguhriyadi)
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://github.com/wervlad)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/tangguhriyadi)
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://github.com/tangguhriyadi)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://github.com/tangguhriyadi)
+[![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)](https://github.com/tangguhriyadi)
+[![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=B73BFE)](https://github.com/tangguhriyadi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
 
 ### OS
@@ -53,14 +56,14 @@
   <a href="https://github.com/tangguhriyadi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangguhriyadi&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/tangguhriyadi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangguhriyadi&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/tangguhriyadi">
     <img src="https://komarev.com/ghpvc/?username=tangguhriyadi&color=blue&style=flat)" />
   </a>
 </p>
