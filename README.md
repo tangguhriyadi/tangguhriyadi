@@ -43,6 +43,7 @@
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/tangguhriyadi)
 [![Ant-Design](https://img.shields.io/badge/Ant%20Design-black?style=for-the-badge&logo=antdesign&logoColor=1890FF)](https://github.com/tangguhriyadi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://hub.docker.com/u/tangguhriyadi)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
