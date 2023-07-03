@@ -31,9 +31,11 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://github.com/tangguhriyadi)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tangguhriyadi)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/tangguhriyadi)
+[![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23DD0031)](https://github.com/tangguhriyadi)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://github.com/wervlad)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
 
 ### OS
