@@ -39,6 +39,8 @@
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://github.com/tangguhriyadi)
 [![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88)](https://github.com/tangguhriyadi)
 [![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=B73BFE)](https://github.com/tangguhriyadi)
+[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)](https://github.com/tangguhriyadi)
+[![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/tangguhriyadi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
 
 ### OS
