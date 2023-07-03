@@ -16,6 +16,12 @@
     <a href="https://wa.me/+6282116780425">
         <img src="https://img.shields.io/badge/WhatsApp-blue?style=flat-square&logo=whatsapp&logoColor=white" alt="e-mail">
     </a>
+    <a href="https://t.me/Tangguhriyadi97">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" >
+    </a>
+    <a href="https://t.me/Tangguhriyadi97">
+        <img src="	https://img.shields.io/badge/website-blue?style=flat-square&logo=About.me&logoColor=white" >
+    </a>
     
 </p>
 
