@@ -41,7 +41,7 @@
 [![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=B73BFE)](https://github.com/tangguhriyadi)
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)](https://github.com/tangguhriyadi)
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/tangguhriyadi)
-[![Ant-Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)](https://github.com/tangguhriyadi)
+[![Ant-Design](https://img.shields.io/badge/Ant%20Design-black?style=for-the-badge&logo=antdesign&logoColor=1890FF)](https://github.com/tangguhriyadi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
 
 ### OS
