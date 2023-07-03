@@ -29,7 +29,7 @@
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://github.com/tangguhriyadi)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/tangguhriyadi)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192)](https://github.com/tangguhriyadi)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/tangguhriyadi)
 [![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23DD0031)](https://github.com/tangguhriyadi)
 
