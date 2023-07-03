@@ -61,7 +61,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangguhriyadi&theme=transparent" />
   </a>
   <a href="https://github.com/tangguhriyadi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tangguhriyadi&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/tangguhriyadi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangguhriyadi&theme=transparent" />
