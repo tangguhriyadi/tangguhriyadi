@@ -66,9 +66,9 @@
   <a href="https://github.com/tangguhriyadi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangguhriyadi&theme=transparent" />
   </a>
-  <a href="https://github.com/tangguhriyadi">
+<!--   <a href="https://github.com/tangguhriyadi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangguhriyadi&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+  </a> -->
 </p>
 </details>
 
