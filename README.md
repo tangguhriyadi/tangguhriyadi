@@ -19,7 +19,7 @@
     <a href="https://t.me/Tangguhriyadi97">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" >
     </a>
-    <a href="https://t.me/Tangguhriyadi97">
+    <a href="https://tangguhriyadi.showwcase.com">
         <img src="	https://img.shields.io/badge/website-blue?style=flat-square&logo=About.me&logoColor=white" >
     </a>
     
