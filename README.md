@@ -30,12 +30,12 @@
 [![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/tangguhriyadi)
 [![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=00ADD8)](https://github.com/tangguhriyadi)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/tangguhriyadi)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/tangguhriyadi)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/tangguhriyadi)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/tangguhriyadi)
 
 ### Databases
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://github.com/tangguhriyadi)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=316192)](https://github.com/tangguhriyadi)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=23316192)](https://github.com/tangguhriyadi)
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/tangguhriyadi)
 [![Redis](https://img.shields.io/badge/redis-black.svg?&style=for-the-badge&logo=redis&logoColor=%23DD0031)](https://github.com/tangguhriyadi)
 
