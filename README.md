@@ -48,6 +48,7 @@
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-black?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)](https://github.com/tangguhriyadi)
 [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/tangguhriyadi)
 [![Ant-Design](https://img.shields.io/badge/Ant%20Design-black?style=for-the-badge&logo=antdesign&logoColor=1890FF)](https://github.com/tangguhriyadi)
+[![React Query](https://img.shields.io/badge/-React%20Query-black?style=for-the-badge&logo=react%20query&logoColor=FF4154)](https://github.com/tangguhriyadi)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/tangguhriyadi)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5)](https://github.com/tangguhriyadi)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://hub.docker.com/u/tangguhriyadi)
